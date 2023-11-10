@@ -251,7 +251,7 @@ One possible positioning is to have a set of 10 people sit in the dry block 11 Ã
 A cylindrical water cistern was built in an apartment complex in Aquatown. The bottom rests on concrete and is not accessible. It has a height h and a radius r.
 
 #### Problem Description
-![WaterCistern.webp](./assets/WaterCistern.webp)
+![WaterCistern.webp](./assets/WaterCistern.png)
 A cylindrical water cistern was built in an apartment complex in Aquatown.
 
 The bottom rests on concrete and is not accessible. It has a height h and a radius r,
