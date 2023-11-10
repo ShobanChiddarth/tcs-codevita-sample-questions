@@ -1,7 +1,7 @@
 # Square Free Numbers
 
 def full_factors(number: int) -> list[int]:
-    if type(number) is not int:
+    if not isinstance(number, int):
         raise TypeError("number must be int")
     factors=[]
     for n in range(1, int(number/2)+1):
@@ -15,7 +15,7 @@ def prime_factors(number: int) -> list[int]:
     """Returns a list of prime factors of `number` without 1
 
 Source: https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/"""
-    if type(number) is not int:
+    if not isinstance(number, int):
         raise TypeError("number must be int")
     prime_factors=[]
 
@@ -49,7 +49,7 @@ def frequence_counter(l: list)-> dict:
 
 def square_free(number: int) -> int:
     "Returns how many square free numbers divide the given `number"
-    if type(number) is not int:
+    if isinstance(number, int):
         raise TypeError("number must be int")
     
     factors = full_factors(number)
