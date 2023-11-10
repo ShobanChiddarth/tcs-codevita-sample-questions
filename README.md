@@ -11,7 +11,7 @@
 | Sorting Boxes | ? |
 | Sport Stadium | ? |
 | Water Cistern | ? |
-| Square Free numbers | ? |
+| Square Free numbers | [./src/square_free_numbers.py](./src/square_free_numbers.py) |
 | Codu and Sum Love | I don't speak Java (yet) |
 Obstacle Game | ? |
 
