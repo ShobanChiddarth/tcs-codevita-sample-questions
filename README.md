@@ -253,6 +253,7 @@ A cylindrical water cistern was built in an apartment complex in Aquatown. The b
 #### Problem Description
 
 ![WaterCistern.png](./assets/WaterCistern.png)
+
 A cylindrical water cistern was built in an apartment complex in Aquatown.
 
 The bottom rests on concrete and is not accessible. It has a height h and a radius r,
